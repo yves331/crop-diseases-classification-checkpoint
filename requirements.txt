@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+numpy
+opencv-python-headless  # <= Version pour les serveurs, sans interface graphique
+Pillow
+python-multipart        # Pour que FastAPI puisse lire les fichiers
+scikit-learn
